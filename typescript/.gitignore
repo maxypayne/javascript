@@ -1,0 +1,10 @@
+.env
+/dist
+/tmp
+/out-tsc
+/node_modules
+/.idea
+.project
+.DS_Store
+Thumbs.db
+/xDev

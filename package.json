@@ -1,0 +1,18 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Javascript course",
+  "main": "test/index.js",
+  "scripts": {
+    "test": "ds"
+  },
+  "author": "maximlucov@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.0.0",
+    "rxjs": "^6.5.5"
+  },
+  "directories": {
+    "test": "test"
+  }
+}

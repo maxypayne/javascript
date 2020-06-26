@@ -1,0 +1,14 @@
+@import "roboto.css";
+body {
+  font-family: 'Roboto', sans-serif;
+}
+h1 {
+  /*background-color: red;*/
+}
+
+.logo {
+  background-image: url("../assets/webpackLogo.png");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
